@@ -1,4 +1,4 @@
-# Graph-Project
+# Graphs-Assembly
 
   Project within the Computer System Architecture laboratory, year 1, semester 1. The project was written in Assembly, more precisely MIPS.
   
